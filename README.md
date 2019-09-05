@@ -136,8 +136,8 @@ Should you have questions about pre-requisites, please email the instructor.***
 
 | Date | Slides   | Related Content                 | What is due/out            |
 |------|--------|----------------------------------|----------------------------|
-| Mon Sept 3    |  TA training, etc. No class  | NA  |            |
-| Wed Sept 5    |  Course overview  | NA  |            |
+| Mon Sept 3    |  No class; TA Training  | NA |            |
+| Wed Sept 5    |  Course overview  | [overview_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/intro_deeplearning.pdf)   |            |
 | Mon Sept 10    |  Math Refershers I |   |    hw01 out (Canvas)        |
 | Wed Sept 12    |  Math Refershers II |  |            |
 | Mon Sept 17    |    Information Theory  |        |
