@@ -155,7 +155,7 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Wed Oct 31    |    Seq2Seq; Neural Machine Translation |   |   hw02 due     |
 | Mon Nov 5    |     ConvNets I   |   |   hw03_a due        |
 | Wed Nov 7    |    ConvNets II | |      |
-| Mon Nov 12    |    | NA  |            |
+| Mon Nov 12    |    |   |            |
 | Wed Nov 14    |    |  |         |
 | Mon Nov 19    | BERT  |      |          |
 | Mon Nov 26    |    TansformerXL & XLNet    |        | |
