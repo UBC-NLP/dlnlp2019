@@ -155,9 +155,9 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Wed Oct 31    |    Seq2Seq; Neural Machine Translation |   |   hw02 due     |
 | Mon Nov 5    |     ConvNets I   |   |   hw03_a due        |
 | Wed Nov 7    |    ConvNets II | |      |
-| Mon Nov 12    |  Remembrance Day – UBC closed  | NA  |            |
-| Wed Nov 14    |    Thanks Giving Day (no class)|  |         |
-| Mon Nov 19    | BERT  ||          |
+| Mon Nov 12    |    | NA  |            |
+| Wed Nov 14    |    |  |         |
+| Mon Nov 19    | BERT  |      |          |
 | Mon Nov 26    |    TansformerXL & XLNet    |        | |
 | Wed Nov 28    |    Projects  |        |        |
 | Mon Dec 3    |    | --  |   Final project due  (hw03_b)       |
