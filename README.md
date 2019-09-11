@@ -138,8 +138,8 @@ Should you have questions about pre-requisites, please email the instructor.***
 |------|--------|----------------------------------|----------------------------|
 | Mon Sept 3    |  No class; TA Training  | NA |            |
 | Wed Sept 5    |  Course overview  | [overview_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/intro_deeplearning.pdf)   |            |
-| Mon Sept 10    |  Probability | [prob_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/probability.pdf); [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html); [KA](https://www.khanacademy.org/math/statistics-probability/probability/probability-geometry); [Harvard Stats](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)]  |            |
-| Wed Sept 12    |  Math Refershers II |  |   hw01 out (Canvas)         |
+| Mon Sept 10    |  Probability I | [prob_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/probability.pdf); [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html); [KA](https://www.khanacademy.org/math/statistics-probability/probability/probability-geometry); [Harvard Stats](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)]  |            |
+| Wed Sept 12    |  Probability II  |  |   hw01 out (Canvas)         |
 | Mon Sept 17    |    Information Theory  |        |
 | Wed Sept 19    |    ML Basics |         |
 | Mon Sept 24    |  Word meaning |  |         |
