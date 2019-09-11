@@ -143,8 +143,8 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Mon Sept 17    |    Information Theory  |        |
 | Wed Sept 19    |    ML Basics |         |
 | Mon Sept 24    |  Word meaning |  |         |
-| Wed Sept 26    |    word vectors & Word2Vec |  | | 
-| Mon Oct 1    |     Language Models I |  |  hw01 due & hw02 out |
+| Wed Sept 26    |    word vectors & Word2Vec |  | hw01 due & hw02 out | 
+| Mon Oct 1    |     Language Models I |  |   |
 | Wed Oct 3    |    Feedforward Networks | | |
 | Mon Oct 8    |     Recurrent Neural Networks |   |            |
 | Wed Oct 10    |     LSTMs |    |          |
