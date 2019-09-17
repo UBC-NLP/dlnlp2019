@@ -140,28 +140,30 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Wed Sept 5    |  Course overview  | [overview_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/intro_deeplearning.pdf)   |            |
 | Mon Sept 10    |  Probability I | [prob_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/probability.pdf); [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html); [KA](https://www.khanacademy.org/math/statistics-probability/probability/probability-geometry); [Harvard Stats](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)]  |            |
 | Wed Sept 12    |  Probability II  |  |   hw01 out (Canvas)         |
-| Mon Sept 17    |    Information Theory  |        |
-| Wed Sept 19    |    ML Basics |         |
-| Mon Sept 24    |  Word meaning |  |         |
-| Wed Sept 26    |    word vectors & Word2Vec |  | hw01 due & hw02 out | 
-| Mon Oct 1    |     Language Models I |  |   |
-| Wed Oct 3    |    Feedforward Networks | | |
-| Mon Oct 8    |     Recurrent Neural Networks |   |            |
-| Wed Oct 10    |     LSTMs |    |          |
-| Wed Oct 17    |   Transformers |  |          |
-| Mon Oct 22   |     Applications & Project Discussion |  | |        |
-| Wed Oct 24   |     Gradient-based optimization |   |         |
-| Mon Oct 29    |    Applications I |  |        |
-| Wed Oct 31    |    Seq2Seq; Neural Machine Translation |   |   hw02 due     |
-| Mon Nov 5    |     ConvNets I   |   |   hw03_a due        |
-| Wed Nov 7    |    ConvNets II | |      |
-| Mon Nov 12    |    |   |            |
+| Mon Sept 17    |   Probability III   |        |
+| Wed Sept 19    |   Information Theory  |         |
+| Mon Sept 24    |  ML Basics |  |         |
+| Wed Sept 26    |  Word meaning   |  | hw01 due & hw02 out | 
+| Mon Oct 1    |    word vectors & Word2Vec  |  |   |
+| Wed Oct 3    |   Language Models I  | | |
+| Mon Oct 8    |   Feedforward Networks   |   |            |
+| Wed Oct 10    |  Recurrent Neural Networks    |    |          |
+| Wed Oct 17    |  LSTMs  |  |          |
+| Mon Oct 22   |   Transformers   |  | |        |
+| Wed Oct 24   |   Applications & Project Discussion   |   |         |
+| Mon Oct 29    |   Gradient-based optimization  |  |        |
+| Wed Oct 31    |  Applications I  |   |   hw02 due     |
+| Mon Nov 5    |    Seq2Seq; Neural Machine Translation     |   |   hw03_a due        |
+| Wed Nov 7    |   ConvNets I  | |      |
+| Mon Nov 12    |  ConvNets II  |   |            |
 | Wed Nov 14    |    |  |         |
 | Mon Nov 19    | BERT  |      |          |
 | Mon Nov 26    |    TansformerXL & XLNet    |        | |
 | Wed Nov 28    |    Projects  |        |        |
 | Mon Dec 3    |    | --  |   Final project due  (hw03_b)       |
 
+
+https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/information_theory.pdf
 
 
 ## 8. Readings:  
