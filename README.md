@@ -149,7 +149,7 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Mon Oct 8    |   Feedforward Networks   |   |            |
 | Wed Oct 10    |  Recurrent Neural Networks    |    |          |
 | Wed Oct 17    |  LSTMs  |  |          |
-| Mon Oct 22   |   Transformers   |  | |   hw02 due     |
+| Mon Oct 22   |   Transformers   |  |   hw02 due     |
 | Wed Oct 24   |   Applications & Project Discussion   |   |         |
 | Mon Oct 29    |   Gradient-based optimization  |  |    hw03_a due    |
 | Wed Oct 31    |  Applications I  |   |       |
