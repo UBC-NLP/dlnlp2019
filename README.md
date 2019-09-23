@@ -149,11 +149,11 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Mon Oct 8    |   Feedforward Networks   |   |            |
 | Wed Oct 10    |  Recurrent Neural Networks    |    |          |
 | Wed Oct 17    |  LSTMs  |  |          |
-| Mon Oct 22   |   Transformers   |  | |        |
+| Mon Oct 22   |   Transformers   |  | |   hw02 due     |
 | Wed Oct 24   |   Applications & Project Discussion   |   |         |
-| Mon Oct 29    |   Gradient-based optimization  |  |        |
-| Wed Oct 31    |  Applications I  |   |   hw02 due     |
-| Mon Nov 5    |    Seq2Seq; Neural Machine Translation     |   |   hw03_a due        |
+| Mon Oct 29    |   Gradient-based optimization  |  |    hw03_a due    |
+| Wed Oct 31    |  Applications I  |   |       |
+| Mon Nov 5    |    Seq2Seq; Neural Machine Translation     |   |           |
 | Wed Nov 7    |   ConvNets I  | |      |
 | Mon Nov 12    |  ConvNets II  |   |            |
 | Wed Nov 14    |    |  |         |
