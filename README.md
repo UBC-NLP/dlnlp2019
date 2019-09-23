@@ -139,10 +139,10 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Mon Sept 3    |  No class; TA Training  | NA |            |
 | Wed Sept 5    |  Course overview  | [overview_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/intro_deeplearning.pdf)   |            |
 | Mon Sept 10    |  Probability I | [prob_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/probability.pdf); [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html); [KA](https://www.khanacademy.org/math/statistics-probability/probability/probability-geometry); [Harvard Stats](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)]  |            |
-| Wed Sept 12    |  Probability II  |  |   hw01 out (Canvas)         |
-| Mon Sept 17    |   Probability III   |        |
-| Wed Sept 19    |   Information Theory  |         |
-| Mon Sept 24    |  ML Basics |  |         |
+| Wed Sept 12    |  Probability II  | [prob_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/probability.pdf) |   hw01 out (Canvas)         |
+| Mon Sept 17    |   Probability III   |   [prob_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/probability.pdf)     |
+| Wed Sept 19    |   Information Theory  |  [info_theory_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/information_theory.pdf); [entropy_basics_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/entropy_background.pdf)       |
+| Mon Sept 24    |  ML Basics |  [ml_basics_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/ml_basics.pdf)  |         |
 | Wed Sept 26    |  Word meaning   |  | hw01 due & hw02 out | 
 | Mon Oct 1    |    word vectors & Word2Vec  |  |   |
 | Wed Oct 3    |   Language Models I  | | |
