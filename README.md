@@ -145,7 +145,7 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Tues Sept 24    |  ML Basics |  [ml_basics_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/ml_basics.pdf)  |         |
 | Thurs Sept 26    |  Word meaning   |  | hw01 due & hw02 out | 
 | Tues Oct 1    |    word vectors & Word2Vec  |  |   |
-| Thurs Oct 3    |  Linear Algebra   | [[lin_alg notebook](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/LinearAlgPresentation.ipynb)]; [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html)] |   |
+| Thurs Oct 3    |  Linear Algebra   | [[lin_alg_notebook](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/LinearAlgPresentation.ipynb)]; [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html)] |   |
 | Tues Oct 8    |   Language Models I   |   |            |
 | Thurs Oct 10    |  Feedforward Networks    |    |          |
 | Tues Oct 15    | Recurrent Neural Networks  |  |          |
