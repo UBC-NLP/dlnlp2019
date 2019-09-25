@@ -136,31 +136,33 @@ Should you have questions about pre-requisites, please email the instructor.***
 
 | Date | Slides   | Related Content                 | What is due/out            |
 |------|--------|----------------------------------|----------------------------|
-| Mon Sept 3    |  No class; TA Training  | NA |            |
-| Wed Sept 5    |  Course overview  | [overview_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/intro_deeplearning.pdf)   |            |
-| Mon Sept 10    |  Probability I | [prob_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/probability.pdf); [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html); [KA](https://www.khanacademy.org/math/statistics-probability/probability/probability-geometry); [Harvard Stats](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)]  |            |
-| Wed Sept 12    |  Probability II  | [prob_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/probability.pdf) |   hw01 out (Canvas)         |
-| Mon Sept 17    |   Probability III   |   [prob_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/probability.pdf)     |
-| Wed Sept 19    |   Information Theory  |  [info_theory_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/information_theory.pdf); [entropy_basics_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/entropy_background.pdf)       |
-| Mon Sept 24    |  ML Basics |  [ml_basics_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/ml_basics.pdf)  |         |
-| Wed Sept 26    |  Word meaning   |  | hw01 due & hw02 out | 
-| Mon Oct 1    |    word vectors & Word2Vec  |  |   |
-| Wed Oct 3    |   Language Models I  | | |
-| Mon Oct 8    |   Feedforward Networks   |   |            |
-| Wed Oct 10    |  Recurrent Neural Networks    |    |          |
-| Wed Oct 17    |  LSTMs  |  |          |
-| Mon Oct 22   |   Transformers   |  |   hw02 due     |
-| Wed Oct 24   |   Applications & Project Discussion   |   |         |
-| Mon Oct 29    |   Gradient-based optimization  |  |    hw03_a due    |
-| Wed Oct 31    |  Applications I  |   |       |
-| Mon Nov 5    |    Seq2Seq; Neural Machine Translation     |   |           |
-| Wed Nov 7    |   ConvNets I  | |      |
-| Mon Nov 12    |  ConvNets II  |   |            |
-| Wed Nov 14    |    |  |         |
-| Mon Nov 19    | BERT  |      |          |
-| Mon Nov 26    |    TansformerXL & XLNet    |        | |
-| Wed Nov 28    |    Projects  |        |        |
-| Mon Dec 3    |    | --  |   Final project due  (hw03_b)       |
+| Tues Sept 3    |  No class; TA Training  | NA |            |
+| Thurs Sept 5    |  Course overview  | [overview_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/intro_deeplearning.pdf)   |            |
+| Tues Sept 10    |  Probability I | [prob_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/probability.pdf); [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html); [KA](https://www.khanacademy.org/math/statistics-probability/probability/probability-geometry); [Harvard Stats](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)]  |            |
+| Thurs Sept 12    |  Probability II  | [prob_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/probability.pdf) |   hw01 out (Canvas)         |
+| Tues Sept 17    |   Probability III   |   [prob_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/probability.pdf)     |
+| Thurs Sept 19    |   Information Theory  |  [info_theory_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/information_theory.pdf); [entropy_basics_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/entropy_background.pdf)       |
+| Tues Sept 24    |  ML Basics |  [ml_basics_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/ml_basics.pdf)  |         |
+| Thurs Sept 26    |  Word meaning   |  | hw01 due & hw02 out | 
+| Tues Oct 1    |    word vectors & Word2Vec  |  |   |
+| Thurs Oct 3    |  Linear Algebra   | | [[lin_alg notebook](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/LinearAlgPresentation.ipynb)]; [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html) ]  |
+| Tues Oct 8    |   Language Models I   |   |            |
+| Thurs Oct 10    |  Feedforward Networks    |    |          |
+| Tues Oct 15    | Recurrent Neural Networks  |  |          |
+| Thurs Oct 17    |  LSTMs   |  |          |
+| Tues Oct 22   |   Transformers   |  |   hw02 due     |
+| Thurs Oct 24   |   Applications & Project Discussion   |   |         |
+| Tues Oct 29    |   Gradient-based optimization  |  |    hw03_a due    |
+| Thurs Oct 31    |  Applications I  |   |       |
+| Tues Nov 5    |    Seq2Seq; Neural Machine Translation     |   |           |
+| Thurs Nov 7    |   ConvNets I  | |      |
+| Tues Nov 12    |  ConvNets II  |   |            |
+| Thurs Nov 14    |    |  |         |
+| Tues Nov 19    | BERT  |      |          |
+| Thurs Nov 21    |    TansformerXL & XLNet    |        | |
+| Tues Nov 26    |    Projects  |        |        |
+| Thurs Nov 28    |    Projects  |        |        |
+| Tues Dec 3    |    | --  |   Final project due  (hw03_b)       |
 
 
 https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/information_theory.pdf
