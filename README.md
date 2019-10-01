@@ -144,9 +144,9 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Thurs Sept 19    |   Information Theory  |  [info_theory_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/information_theory.pdf); [entropy_basics_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/entropy_background.pdf)       |
 | Tues Sept 24    |  ML Basics |  [ml_basics_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/ml_basics.pdf)  |         |
 | Thurs Sept 26    |  Word meaning   | [word_meaning_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word_meaning.pdf)  | hw01 due & hw02 out | 
-| Tues Oct 1    |    word vectors & Word2Vec  |  |   |
+| Tues Oct 1    |    Language models  | [[lang_models](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/lang_models.pdf)] |   |
 | Thurs Oct 3    |  Linear Algebra   | [[lin_alg_notebook](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/LinearAlgPresentation.ipynb)]; [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html)] |   |
-| Tues Oct 8    |   Language Models I   |   |            |
+| Tues Oct 8    |   word embeddings   |   |            |
 | Thurs Oct 10    |  Feedforward Networks    |    |          |
 | Tues Oct 15    | Recurrent Neural Networks  |  |          |
 | Thurs Oct 17    |  LSTMs   |  |          |
