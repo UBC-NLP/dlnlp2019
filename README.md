@@ -173,6 +173,39 @@ See Section 7 above.
 Additionally, below is list of relevant/interesting/background papers.
 This list will grow soon.
 
+---
+### Attention
+* [[Learning to Deceive with Attention-Based Explanations](https://arxiv.org/pdf/1909.07913.pdf)]
+
+* [[What Does BERT Look At? An Analysis of BERT’s Attention](https://arxiv.org/pdf/1906.04341.pdf)]
+
+* [[Analyzing the Structure of Attention in a Transformer Language Model](https://arxiv.org/pdf/1906.04284.pdf)]
+
+* [[Is Attention Interpretable?](https://arxiv.org/pdf/1906.03731.pdf)]
+
+* [[Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)]
+
+* [[Attention is not Explanation](https://www.aclweb.org/anthology/N19-1357.pdf)]
+
+### MT
+
+* [[Towards Understanding Neural Machine Translation with Word Importance](https://arxiv.org/pdf/1909.00326.pdf)]
+
+* [[An Exploration of Placeholding in Neural Machine Translation](https://www.aclweb.org/anthology/W19-6618)]
+
+* [[BLEU: a Method for Automatic Evaluation of Machine Translation](https://www.aclweb.org/anthology/P02-1040)]
+
+* [[Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf)]
+
+* [[Semi-Supervised Learning for Neural Machine Translation](https://arxiv.org/pdf/1606.04596.pdf)]
+
+* [[Self-Supervised Neural Machine Translation](https://www.aclweb.org/anthology/P19-1178)]
+
+### MTL
+
+* [[Cross-lingual Dependency Parsing with Unlabeled Auxiliary Languages](https://arxiv.org/pdf/1909.09265.pdf)]
+
+---
 * [[Toward controlled generation of text](http://www.cs.ubc.ca/~amuham01/LING530/papers/hu2017toward.pdf)]
 
 * [[Tutorial on variational autoencoders](http://www.cs.ubc.ca/~amuham01/LING530/papers/doersch2016tutorial.pdf)]
