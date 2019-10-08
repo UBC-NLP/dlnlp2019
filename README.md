@@ -146,7 +146,7 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Thurs Sept 26    |  Word meaning I   | [word_meaning_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word_meaning.pdf)  | hw01 due & hw02 out | 
 | Tues Oct 1    |    Word meaning II & project discussion  |  |   |
 | Thurs Oct 3    |  Linear Algebra   | [[lin_alg_notebook](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/LinearAlgPresentation.ipynb)]; [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html)] |   |
-| Tues Oct 8    |   Language models & Word embeddings  |  [[lang_models](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/lang_models.pdf)]; [[word2vec](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/word2vec.pdf)]  |            |
+| Tues Oct 8    |   Language models & Word embeddings  |  [[lang_models]https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/lang_models.pdf)]; [[word2vec](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word2vec.pdf)]  |            |
 | Thurs Oct 10    |  Feedforward Networks    |    |          |
 | Tues Oct 15    | Recurrent Neural Networks  |  |          |
 | Thurs Oct 17    |  LSTMs   |  |          |
