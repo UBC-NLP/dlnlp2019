@@ -213,6 +213,11 @@ This list will grow soon.
 * [[Cross-lingual Dependency Parsing with Unlabeled Auxiliary Languages](https://arxiv.org/pdf/1909.09265.pdf)]
 
 ---
+### Word Mapping 
+
+---
+### Various topics
+---
 * [[Toward controlled generation of text](http://www.cs.ubc.ca/~amuham01/LING530/papers/hu2017toward.pdf)]
 
 * [[Tutorial on variational autoencoders](http://www.cs.ubc.ca/~amuham01/LING530/papers/doersch2016tutorial.pdf)]
