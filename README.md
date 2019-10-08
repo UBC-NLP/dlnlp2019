@@ -217,7 +217,7 @@ This list will grow soon.
 
 ---
 ### Various topics
----
+
 * [[Toward controlled generation of text](http://www.cs.ubc.ca/~amuham01/LING530/papers/hu2017toward.pdf)]
 
 * [[Tutorial on variational autoencoders](http://www.cs.ubc.ca/~amuham01/LING530/papers/doersch2016tutorial.pdf)]
