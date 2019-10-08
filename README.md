@@ -175,7 +175,7 @@ This list will grow soon.
 
 ---
 ### Where to find good papers:
-* [ACL Anthology](https://www.aclweb.org/anthology/)]
+* [[ACL Anthology](https://www.aclweb.org/anthology/)]
 * [[NeurIPS 2019 papers](https://nips.cc/Conferences/2019/AcceptedPapersInitial)]; [[NeurIPS 2018 proceedings](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018)]
 * [[ICLR 2019](https://iclr.cc/Conferences/2019/Schedule?type=Poster)]; [[ICLR 2018](https://dblp.org/db/conf/iclr/iclr2018)]
 * [[AAAI Digital Library](https://www.aaai.org/Library/conferences-library.php)]
