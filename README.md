@@ -141,12 +141,12 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Tues Sept 10    |  Probability I | [prob_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/probability.pdf); [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html); [KA](https://www.khanacademy.org/math/statistics-probability/probability/probability-geometry); [Harvard Stats](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)]  |            |
 | Thurs Sept 12    |  Probability II  | [prob_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/probability.pdf) |   hw01 out (Canvas)         |
 | Tues Sept 17    |   Probability III   |   [prob_slides](https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/probability.pdf)     |
-| Thurs Sept 19    |   Information Theory  |  [info_theory_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/information_theory.pdf); [entropy_basics_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/entropy_background.pdf)       |
-| Tues Sept 24    |  ML Basics |  [ml_basics_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/ml_basics.pdf)  |         |
-| Thurs Sept 26    |  Word meaning I   | [word_meaning_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word_meaning.pdf)  | hw01 due & hw02 out | 
+| Thurs Sept 19    |   Information Theory  |  [info_theory_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/information_theory.pdf); [[entropy_basics_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/entropy_background.pdf) ]      |
+| Tues Sept 24    |  ML Basics |  [[ml_basics_slides(https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/ml_basics.pdf)]  |         |
+| Thurs Sept 26    |  Word meaning I   | [[word_meaning_slides(https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word_meaning.pdf)]  | hw01 due & hw02 out | 
 | Tues Oct 1    |    Word meaning II & project discussion  |  |   |
 | Thurs Oct 3    |  Linear Algebra   | [[lin_alg_notebook](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/LinearAlgPresentation.ipynb)]; [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html)] |   |
-| Tues Oct 8    |   Language models & Word embeddings  |  [[lang_models]https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/lang_models.pdf)]; [[word2vec](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word2vec.pdf)]  |            |
+| Tues Oct 8    |   Language models & Word embeddings  |  [[lang_models](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/lang_models.pdf)]; [[word2vec](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word2vec.pdf)]  |            |
 | Thurs Oct 10    |  Feedforward Networks    |    |          |
 | Tues Oct 15    | Recurrent Neural Networks  |  |          |
 | Thurs Oct 17    |  LSTMs   |  |          |
