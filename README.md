@@ -165,9 +165,6 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Tues Dec 3    |    | --  |   Final project due  (hw03_b)       |
 
 
-https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/information_theory.pdf
-
-
 ## 8. Readings:  
 See Section 7 above.
 Additionally, below is list of relevant/interesting/background papers.
