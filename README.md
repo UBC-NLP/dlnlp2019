@@ -146,7 +146,7 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Thurs Sept 26    |  Word meaning I   | [[word_meaning_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word_meaning.pdf)]  | hw01 due & hw02 out | 
 | Tues Oct 1    |    Word meaning II & project discussion  |  |   |
 | Thurs Oct 3    |  Linear Algebra   | [[lin_alg_notebook](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/LinearAlgPresentation.ipynb)]; [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html)] |   |
-| Tues Oct 8    |   Language models & Word embeddings  |  [[lang_models](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/lang_models.pdf)]; [[word2vec](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word2vec.pdf)] [[Mikolov et al. 2013a](https://arxiv.org/pdf/1301.3781.pdf)]; [[Mikolov et al. 2013b](https://www.aclweb.org/anthology/N13-1090.pdf)]; [[Enriching et al. 2017](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00051)]  |            |
+| Tues Oct 8    |   Language models & Word embeddings  |  [[lang_models_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/lang_models.pdf)]; [[word2vec_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word2vec.pdf)] [[Mikolov et al. 2013a](https://arxiv.org/pdf/1301.3781.pdf)]; [[Mikolov et al. 2013b](https://www.aclweb.org/anthology/N13-1090.pdf)]; [[Bojanowski et al. 2017](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00051)]  |            |
 | Thurs Oct 10    |  Feedforward Networks    |    |          |
 | Tues Oct 15    | Recurrent Neural Networks  |  |          |
 | Thurs Oct 17    |  LSTMs   |  |          |
@@ -172,6 +172,13 @@ https://github.com/UBC-NLP/dlnlp2019/blob/master/slides/information_theory.pdf
 See Section 7 above.
 Additionally, below is list of relevant/interesting/background papers.
 This list will grow soon.
+
+---
+### Where to find good papers:
+* [ACL Anthology](https://www.aclweb.org/anthology/)]
+* [[NeurIPS 2019 papers](https://nips.cc/Conferences/2019/AcceptedPapersInitial)]; [[NeurIPS 2018 proceedings](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018)]
+* [[ICLR 2019](https://iclr.cc/Conferences/2019/Schedule?type=Poster)]; [[ICLR 2018](https://dblp.org/db/conf/iclr/iclr2018)]
+* [[AAAI Digital Library](https://www.aaai.org/Library/conferences-library.php)]
 
 ---
 ### Attention
