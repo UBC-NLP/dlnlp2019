@@ -21,7 +21,7 @@
 **Student Portal:** <http://canvas.ubc.ca>
 
 
-## 1.	Course Rationale & Goal: 
+## 1.    Course Rationale & Goal: 
 
 **Rationale/Background:** *Deep learning* is a class of machine learning methods
 inspired by information processing in the human brain, whereas *Natural language
@@ -62,7 +62,7 @@ interested in learning novel deep learning and NLP methods.
 * People with other machine learning backgrounds interested in deep learning
 and/or NLP.
 
-## 2.	Course Objectives: 
+## 2.    Course Objectives: 
 Upon completion of this course students will be able to:
 
 
@@ -78,7 +78,7 @@ relevant to the lives of diverse individuals, communities and organizations.
 * *identify* an NLP problem (existing or novel) and apply deep learning methods
 to develop a novel solution for it
 
-## 3.	Course Topics:
+## 3.    Course Topics:
 
 * word, phrase, and sentence meaning
 * feedforward networks
@@ -98,7 +98,7 @@ to develop a novel solution for it
 * morphosyntax (e.g., POS tagging and morphological disambiguation)
 * text classification (e.g., sentiment analysis, emotion detection, language)
 
-## 4.	Prerequisites:  
+## 4.    Prerequisites:  
 
 * familiarity with basic linear algebra, basic calculus, and basic probability
 (basic = high school level)
@@ -115,8 +115,8 @@ Although very light support might be provided, the engineering is exclusively
 the students’ responsibility. This course has no lab section.
 Should you have questions about pre-requisites, please email the instructor.***
  
-## 5.	Format of the course: 
-•	This course will involve lectures, class hands-on activities, individual and group work, and instructor-, peer-, and self-assessment. 
+## 5.    Format of the course: 
+•    This course will involve lectures, class hands-on activities, individual and group work, and instructor-, peer-, and self-assessment. 
 
 ## 6. Course syllabus:
 
@@ -146,8 +146,8 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Thurs Sept 26    |  Word meaning I   | [[word_meaning_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word_meaning.pdf)]  | hw01 due & hw02 out | 
 | Tues Oct 1    |    Word meaning II & project discussion  |  |   |
 | Thurs Oct 3    |  Linear Algebra   | [[lin_alg_notebook](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/LinearAlgPresentation.ipynb)]; [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html)] |   |
-| Tues Oct 8    |   Language models & Word embeddings  |  [[lang_models_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/lang_models.pdf)]; [[word2vec_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word2vec.pdf)] [[Mikolov et al. 2013a](https://arxiv.org/pdf/1301.3781.pdf)]; [[Mikolov et al. 2013b](https://www.aclweb.org/anthology/N13-1090.pdf)]; [[Bojanowski et al. 2017](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00051)]  |            |
-| Thurs Oct 10    |  Feedforward Networks    |    |          |
+| Tues Oct 8    |   Language models   |  [[lang_models_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/lang_models.pdf)]; [[Brown et al 1992](https://www.aclweb.org/anthology/J92-1002.pdf)]  |            |
+| Thurs Oct 10    |  Word embeddings & Feedforward Networks    |  [[word2vec_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word2vec.pdf)] [[Mikolov et al. 2013a](https://arxiv.org/pdf/1301.3781.pdf)]; [[Mikolov et al. 2013b](https://www.aclweb.org/anthology/N13-1090.pdf)]; [[Bojanowski et al. 2017](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00051)]  |          |
 | Tues Oct 15    | Recurrent Neural Networks  |  |          |
 | Thurs Oct 17    |  LSTMs   |  |          |
 | Tues Oct 22   |   Transformers   |  |   hw02 due     |
@@ -355,4 +355,3 @@ It is your responsibility to make sure you fully understand what plagiarism is. 
 Bear in mind that this is only one example of the different forms of plagiarism. Before preparing for their written assignments, students are strongly encouraged to familiarize themselves with the following source on plagiarism: the [Academic Integrity Resource Centre](http://help.library.ubc.ca/researching/academic-integrity).
 
 If after reading these materials you still are unsure about how to properly use sources in your work, please ask me for clarification. Students are held responsible for knowing and following all University regulations regarding academic dishonesty. If a student does not know how to properly cite a source or what constitutes proper use of a source it is the student's personal responsibility to obtain the needed information and to apply it within University guidelines and policies. If evidence of academic dishonesty is found in a course assignment, previously submitted work in this course may be reviewed for possible academic dishonesty and grades modified as appropriate. UBC policy requires that all suspected cases of academic dishonesty must be forwarded to the Dean for possible action. 
-
