@@ -147,13 +147,13 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Tues Oct 1    |    Word meaning II & project discussion  |  |   |
 | Thurs Oct 3    |  Linear Algebra   | [[lin_alg_notebook](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/LinearAlgPresentation.ipynb)]; [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html)] |   |
 | Tues Oct 8    |   Language models   |  [[lang_models_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/lang_models.pdf)]; [[JM_CH03](https://web.stanford.edu/~jurafsky/slp3/3.pdf)]; [[Brown et al 1992](https://www.aclweb.org/anthology/J92-1002.pdf)]  |            |
-| Thurs Oct 10    |  Word embeddings & Feedforward Networks    |  [[word2vec_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word2vec.pdf)]; [[ff_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/feedforward_nets.pdf)]; [[Mikolov et al. 2013a](https://arxiv.org/pdf/1301.3781.pdf)]; [[Mikolov et al. 2013b](https://www.aclweb.org/anthology/N13-1090.pdf)]; [[Bojanowski et al. 2017](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00051)]  |          |
-| Tues Oct 15    | Recurrent Neural Networks  | [[RNN_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/RNN.pdf)] |          |
-| Thurs Oct 17    |  GRUs & LSTMs   |  |          |
-| Tues Oct 22   |   Transformers   |  |   hw02 due     |
-| Thurs Oct 24   |   Applications & Project Discussion   |   |         |
+| Thurs Oct 10    |  Word embeddings    |  [[word2vec_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word2vec.pdf)]; [[Mikolov et al. 2013a](https://arxiv.org/pdf/1301.3781.pdf)]; [[Mikolov et al. 2013b](https://www.aclweb.org/anthology/N13-1090.pdf)]; [[Bojanowski et al. 2017](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00051)]  |          |
+| Tues Oct 15    |  Feedforward Networks |  [[ff_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/feedforward_nets.pdf)] |        |
+| Thurs Oct 17    |  Recurrent Neural Networks  | [[RNN_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/RNN.pdf)]|          |
+| Tues Oct 22   |   RNNs II, GRUs & LSTMs    |  |   hw02 due     |
+| Thurs Oct 24   |   Transformers   |   |         |
 | Tues Oct 29    |   Gradient-based optimization  |  |    hw03_a due    |
-| Thurs Oct 31    |  Applications I  |   |       |
+| Thurs Oct 31    |  Applications  |   |       |
 | Tues Nov 5    |    Seq2Seq; Neural Machine Translation     |   |           |
 | Thurs Nov 7    |   ConvNets I  | |      |
 | Tues Nov 12    |  ConvNets II  |   |            |
