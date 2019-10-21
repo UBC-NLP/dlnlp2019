@@ -151,15 +151,15 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Tues Oct 15    |  Feedforward Networks |  [[ff_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/feedforward_nets.pdf)] |        |
 | Thurs Oct 17    |  Recurrent Neural Networks  | [[RNN_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/RNN.pdf)]|          |
 | Tues Oct 22   |   RNNs II, GRUs & LSTMs    |  |   hw02 due     |
-| Thurs Oct 24   |   Transformers   |   |         |
-| Tues Oct 29    |   Gradient-based optimization  |  |    hw03_a due    |
-| Thurs Oct 31    |  Applications  |   |       |
-| Tues Nov 5    |    Seq2Seq; Neural Machine Translation     |   |           |
-| Thurs Nov 7    |   ConvNets I  | |      |
-| Tues Nov 12    |  ConvNets II  |   |            |
-| Thurs Nov 14    |    |  |         |
-| Tues Nov 19    | BERT  |      |          |
-| Thurs Nov 21    |    TansformerXL & XLNet    |        | |
+| Thurs Oct 24   |   Applications I  |   |         |
+| Tues Oct 29    |   Seq2Seq; Neural Machine Translation  |  |    hw03_a due    |
+| Thurs Oct 31    |   Applications II |   |       |
+| Tues Nov 5    |   Transformers I    |   |           |
+| Thurs Nov 7    |   Transformers II, BERT   | |      |
+| Tues Nov 12    |  ConvNets I  |   |            |
+| Thurs Nov 14    |  ConvNets II  |  |         |
+| Tues Nov 19    | Gradient-based optimization  |      |          |
+| Thurs Nov 21    |    Multi-Task Learning    |        | |
 | Tues Nov 26    |    Projects  |        |        |
 | Thurs Nov 28    |    Projects  |        |        |
 | Tues Dec 3    |    | --  |   Final project due  (hw03_b)       |
