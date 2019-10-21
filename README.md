@@ -150,8 +150,8 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Thurs Oct 10    |  Word embeddings    |  [[word2vec_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word2vec.pdf)]; [[Mikolov et al. 2013a](https://arxiv.org/pdf/1301.3781.pdf)]; [[Mikolov et al. 2013b](https://www.aclweb.org/anthology/N13-1090.pdf)]; [[Bojanowski et al. 2017](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00051)]  |          |
 | Tues Oct 15    |  Feedforward Networks |  [[ff_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/feedforward_nets.pdf)] |        |
 | Thurs Oct 17    |  Recurrent Neural Networks  | [[RNN_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/RNN.pdf)]|          |
-| Tues Oct 22   |   RNNs II, GRUs & LSTMs    |  |   hw02 due     |
-| Thurs Oct 24   |   Applications I  |   |         |
+| Tues Oct 22   |   RNNs II, GRUs & LSTMs    |  |        |
+| Thurs Oct 24   |   Applications I  |   |      hw02 due   |
 | Tues Oct 29    |   Seq2Seq; Neural Machine Translation  |  |    hw03_a due    |
 | Thurs Oct 31    |   Applications II |   |       |
 | Tues Nov 5    |   Transformers I    |   |           |
@@ -272,7 +272,7 @@ This list will grow soon.
 | ---------- | -------- | ------ |
 | Professionalization & Class Participation |  Throughout | 15% |
 | ASSIGNMENT 1: Individual assignment: Word Embeddings |  Oct 3 | 15% |
-| ASSIGNMENT 2: Individual assignment: Text Classification with RNNs |  Oct. 24 | 20% |
+| ASSIGNMENT 2: Individual assignment: Text Classification with RNNs |  Oct. 24 | 15% |
 | ASSIGNMENT 3_A: Group assignment: Project Proposal |    Nov. 5 | 5% |
 | ASSIGNMENT 3_B: Group assignment: Term Project (GROUP of 3) |   Dec 3   | 45% |
 
