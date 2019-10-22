@@ -150,7 +150,7 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Thurs Oct 10    |  Word embeddings    |  [[word2vec_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word2vec.pdf)]; [[Mikolov et al. 2013a](https://arxiv.org/pdf/1301.3781.pdf)]; [[Mikolov et al. 2013b](https://www.aclweb.org/anthology/N13-1090.pdf)]; [[Bojanowski et al. 2017](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00051)]  |          |
 | Tues Oct 15    |  Feedforward Networks |  [[ff_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/feedforward_nets.pdf)]; [[DLB CH06](https://www.deeplearningbook.org/contents/mlp.html)]  |        |
 | Thurs Oct 17    |  Recurrent Neural Networks  | [[RNN_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/RNN.pdf)]; [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)] |      |
-| Tues Oct 22   |   RNNs II, GRUs & LSTMs    | [[Chung et al. 2014_Empirical_Eval_GRU](https://arxiv.org/pdf/1412.3555.pdf)] |        |
+| Tues Oct 22   |   RNNs II, GRUs & LSTMs    |[[gru_lstm_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/gru_lstm.pdf)] ; [[Chung et al. 2014_Empirical_Eval_GRU](https://arxiv.org/pdf/1412.3555.pdf)] |        |
 | Thurs Oct 24   |   Applications I  |   |      hw02 due   |
 | Tues Oct 29    |   Seq2Seq; Neural Machine Translation  |  |    hw03_a due    |
 | Thurs Oct 31    |   Applications II |   |       |
