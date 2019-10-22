@@ -148,8 +148,8 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Thurs Oct 3    |  Linear Algebra   | [[lin_alg_notebook](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/LinearAlgPresentation.ipynb)]; [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html)] |   |
 | Tues Oct 8    |   Language models   |  [[lang_models_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/lang_models.pdf)]; [[JM_CH03](https://web.stanford.edu/~jurafsky/slp3/3.pdf)]; [[Brown et al 1992](https://www.aclweb.org/anthology/J92-1002.pdf)]  |            |
 | Thurs Oct 10    |  Word embeddings    |  [[word2vec_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/word2vec.pdf)]; [[Mikolov et al. 2013a](https://arxiv.org/pdf/1301.3781.pdf)]; [[Mikolov et al. 2013b](https://www.aclweb.org/anthology/N13-1090.pdf)]; [[Bojanowski et al. 2017](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00051)]  |          |
-| Tues Oct 15    |  Feedforward Networks |  [[ff_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/feedforward_nets.pdf)]; [[DLB CH10](https://www.deeplearningbook.org/contents/mlp.html)]  |        |
-| Thurs Oct 17    |  Recurrent Neural Networks  | [[RNN_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/RNN.pdf)]|; [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)]          |
+| Tues Oct 15    |  Feedforward Networks |  [[ff_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/feedforward_nets.pdf)]; [[DLB CH06](https://www.deeplearningbook.org/contents/mlp.html)]  |        |
+| Thurs Oct 17    |  Recurrent Neural Networks  | [[RNN_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/RNN.pdf)]; [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)] |      |
 | Tues Oct 22   |   RNNs II, GRUs & LSTMs    | [[Chung et al. 2014_Empirical_Eval_GRU](https://arxiv.org/pdf/1412.3555.pdf)] |        |
 | Thurs Oct 24   |   Applications I  |   |      hw02 due   |
 | Tues Oct 29    |   Seq2Seq; Neural Machine Translation  |  |    hw03_a due    |
