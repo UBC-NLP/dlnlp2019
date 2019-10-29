@@ -152,7 +152,7 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Thurs Oct 17    |  Recurrent Neural Networks  | [[RNN_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/RNN.pdf)]; [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)] |      |
 | Tues Oct 22   |   RNNs II    | [[RNN_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/RNN.pdf)] |        |
 | Thurs Oct 24   |   GRUs & LSTMs  | [[gru_lstm_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/gru_lstm.pdf)] ; [[Chung et al. 2014_Empirical_Eval_GRU](https://arxiv.org/pdf/1412.3555.pdf)]  |      hw02 due   |
-| Tues Oct 29    |   Applications I  |  |    hw03_a due    |
+| Tues Oct 29    |   Applications I  | [[applications_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/applications.pdf)] |    hw03_a due    |
 | Thurs Oct 31    |   Seq2Seq; Neural Machine Translation |   |       |
 | Tues Nov 5    |   Transformers I    |   |           |
 | Thurs Nov 7    |   Transformers II, BERT   | |      |
