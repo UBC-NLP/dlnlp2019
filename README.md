@@ -153,12 +153,12 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Tues Oct 22   |   RNNs II    | [[RNN_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/RNN.pdf)] |        |
 | Thurs Oct 24   |   GRUs & LSTMs  | [[gru_lstm_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/gru_lstm.pdf)] ; [[Chung et al. 2014_Empirical_Eval_GRU](https://arxiv.org/pdf/1412.3555.pdf)]  |      hw02 due   |
 | Tues Oct 29    |   Applications I  | [[applications_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/applications.pdf)] |        |
-| Thurs Oct 31    |   Seq2Seq; Neural Machine Translation |   |       |
-| Tues Nov 5    |   Transformers I    |   |    hw03_a due       |
-| Thurs Nov 7    |   Transformers II, BERT   | |      |
-| Tues Nov 12    |  ConvNets I  |   |            |
-| Thurs Nov 14    |  ConvNets II  |  |         |
-| Tues Nov 19    | Gradient-based optimization  |      |          |
+| Thurs Oct 31    |    |   |       |
+| Tues Nov 5    |   Gradient-based optimization    |   |    hw03_a due       |
+| Thurs Nov 7    |   Seq2Seq; Neural Machine Translation   | |      |
+| Tues Nov 12    |  Transformers II, BERT  |   |            |
+| Thurs Nov 14    |  ConvNets I  |  |         |
+| Tues Nov 19    |   ConvNets II |      |          |
 | Thurs Nov 21    |    Multi-Task Learning    |        | |
 | Tues Nov 26    |    Projects  |        |        |
 | Thurs Nov 28    |    Projects  |        |        |
@@ -274,7 +274,7 @@ This list will grow soon.
 | ASSIGNMENT 1: Individual assignment: Word Embeddings |  Oct 3 | 15% |
 | ASSIGNMENT 2: Individual assignment: Text Classification with RNNs |  Oct. 24 | 15% |
 | ASSIGNMENT 3_A: Group assignment: Project Proposal |    Nov. 5 | 5% |
-| ASSIGNMENT 3_B: Group assignment: Term Project (GROUP of 3) |   Dec 3   | 45% |
+| ASSIGNMENT 3_B: Group assignment: Term Project (GROUP of 3) |   Dec 3   | 50% |
 
 ## Notes on Assignments:
 
