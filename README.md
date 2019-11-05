@@ -151,10 +151,10 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Tues Oct 15    |  Feedforward Networks |  [[ff_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/feedforward_nets.pdf)]; [[DLB CH06](https://www.deeplearningbook.org/contents/mlp.html)]  |        |
 | Thurs Oct 17    |  Recurrent Neural Networks  | [[RNN_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/RNN.pdf)]; [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)] |      |
 | Tues Oct 22   |   RNNs II    | [[RNN_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/RNN.pdf)] |        |
-| Thurs Oct 24   |   GRUs & LSTMs  | [[gru_lstm_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/gru_lstm.pdf)] ; [[Chung et al. 2014_Empirical_Eval_GRU](https://arxiv.org/pdf/1412.3555.pdf)]  |      hw02 due   |
+| Thurs Oct 24   |   GRUs & LSTMs I | [[gru_lstm_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/gru_lstm.pdf)] ; [[Chung et al. 2014_Empirical_Eval_GRU](https://arxiv.org/pdf/1412.3555.pdf)]  |      hw02 due   |
 | Tues Oct 29    |   Applications I  | [[applications_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/applications.pdf)] |        |
-| Thurs Oct 31    |    |   |       |
-| Tues Nov 5    |   Gradient-based optimization    |   |    hw03_a due       |
+| Thurs Oct 31    |  GRUs & LSTMs II  | [[gru_lstm_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/gru_lstm.pdf)]  |       |
+| Tues Nov 5    |   Gradient-based optimization    |  [[neural_fake_news_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/neural_fake_news.pdf)] |    hw03_a due       |
 | Thurs Nov 7    |   Seq2Seq; Neural Machine Translation   | |      |
 | Tues Nov 12    |  Transformers II, BERT  |   |            |
 | Thurs Nov 14    |  ConvNets I  |  |         |
