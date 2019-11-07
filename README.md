@@ -157,9 +157,9 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Tues Nov 5    |   Gradient-based optimization    |  [[optimization_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/optimization.pdf)] |    hw03_a due       |
 | Thurs Nov 7    |    Backpropagation  | [[backpropagation_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/backpropagation.pdf)] |      |
 | Tues Nov 12    |  Seq2Seq; Neural Machine Translation  |   |            |
-| Thurs Nov 14    |  Transformers II, BERT  |  |         |
-| Tues Nov 19    |   ConvNets II |      |          |
-| Thurs Nov 21    |    Multi-Task Learning    |        | |
+| Thurs Nov 14    |  Transformer, BERT  |  |         |
+| Tues Nov 19    |   ConvNets I |      |          |
+| Thurs Nov 21    |    ConvNets II & Multi-Task Learning    |        | |
 | Tues Nov 26    |    Projects  |        |        |
 | Thurs Nov 28    |    Projects  |        |        |
 | Tues Dec 3    |    | --  |   Final project due  (hw03_b)       |
