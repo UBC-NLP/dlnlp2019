@@ -155,7 +155,7 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Tues Oct 29    |   Applications  | [[applications_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/applications.pdf)] |        |
 | Thurs Oct 31    |  Generation & Neural Fake News  | [[neural_fake_news_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/neural_fake_news.pdf)]  |       |
 | Tues Nov 5    |   Gradient-based optimization    |  [[optimization_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/optimization.pdf)] |    hw03_a due       |
-| Thurs Nov 7    |    Backpropagation  | [[backpropagation_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/backpropagations.pdf)] |      |
+| Thurs Nov 7    |    Backpropagation  | [[backpropagation_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/backpropagation.pdf)] |      |
 | Tues Nov 12    |  Seq2Seq; Neural Machine Translation  |   |            |
 | Thurs Nov 14    |  Transformers II, BERT  |  |         |
 | Tues Nov 19    |   ConvNets II |      |          |
