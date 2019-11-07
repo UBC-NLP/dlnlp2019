@@ -154,10 +154,10 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Thurs Oct 24   |   GRUs & LSTMs | [[gru_lstm_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/gru_lstm.pdf)] ; [[Chung et al. 2014_Empirical_Eval_GRU](https://arxiv.org/pdf/1412.3555.pdf)]  |      hw02 due   |
 | Tues Oct 29    |   Applications  | [[applications_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/applications.pdf)] |        |
 | Thurs Oct 31    |  Generation & Neural Fake News  | [[neural_fake_news_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/neural_fake_news.pdf)]  |       |
-| Tues Nov 5    |   Gradient-based optimization    |   |    hw03_a due       |
-| Thurs Nov 7    |   Seq2Seq; Neural Machine Translation   | |      |
-| Tues Nov 12    |  Transformers II, BERT  |   |            |
-| Thurs Nov 14    |  ConvNets I  |  |         |
+| Tues Nov 5    |   Gradient-based optimization    |  [[optimization_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/optimization.pdf)] |    hw03_a due       |
+| Thurs Nov 7    |    Backpropagation  | [[backpropagation_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/backpropagations.pdf)] |      |
+| Tues Nov 12    |  Seq2Seq; Neural Machine Translation  |   |            |
+| Thurs Nov 14    |  Transformers II, BERT  |  |         |
 | Tues Nov 19    |   ConvNets II |      |          |
 | Thurs Nov 21    |    Multi-Task Learning    |        | |
 | Tues Nov 26    |    Projects  |        |        |
