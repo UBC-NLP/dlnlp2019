@@ -157,9 +157,9 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Tues Nov 5    |   Gradient-based optimization    |  [[optimization_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/optimization.pdf)] |    hw03_a due       |
 | Thurs Nov 7    |    Backpropagation  | [[backpropagation_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/backpropagation.pdf)] |      |
 | Tues Nov 12    |  Seq2Seq; Neural Machine Translation  | [[attention_MT_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/attention.pdf)];  [[Bahdanau_et_al_2016](https://arxiv.org/pdf/1409.0473.pdf)] |            |
-| Thurs Nov 14    |  Transformer, BERT  | [[transformer_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/transformer.pdf)]; [[Vaswani_et_al_2017](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)]; [[Devlin_et_al_2019](https://www.aclweb.org/anthology/N19-1423.pdf)]  |         |
-| Tues Nov 19    |   ConvNets I |      |          |
-| Thurs Nov 21    |    ConvNets II & Multi-Task Learning    |        | |
+| Thurs Nov 14    |  Transformer I  | [[transformer_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/transformer.pdf)]; [[Vaswani_et_al_2017](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)]; [[Devlin_et_al_2019](https://www.aclweb.org/anthology/N19-1423.pdf)]  |         |
+| Tues Nov 19    |   Transformer II |  same as last week    |          |
+| Thurs Nov 21    |    ConvNets    |  [[cnn_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/CNNs.pdf)]      | |
 | Tues Nov 26    |    Projects  |        |        |
 | Thurs Nov 28    |    Projects  |        |        |
 | Tues Dec 3    |    | --  |   Final project due  (hw03_b)       |
