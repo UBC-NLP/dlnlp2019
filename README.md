@@ -160,7 +160,7 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Thurs Nov 14    |  Transformer I  | [[transformer_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/transformer.pdf)]; [[Vaswani_et_al_2017](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)]; [[Devlin_et_al_2019](https://www.aclweb.org/anthology/N19-1423.pdf)]  |         |
 | Tues Nov 19    |   Transformer II |  same as last week    |          |
 | Thurs Nov 21    |    BERT & ConvNets    |  [[cnn_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/CNNs.pdf)]      | |
-| Tues Nov 26    |    Projects  |        |        |
+| Tues Nov 26    |    Auto-Encoders, GANS, Multi-Task Learning, and Word Mapping  |   [[methods_overview_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/multiple_methods.pdf)]     |        |
 | Thurs Nov 28    |    Projects  |        |        |
 | Tues Dec 3    |    | --  |   Final project due  (hw03_b)       |
 
