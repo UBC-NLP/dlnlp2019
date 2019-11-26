@@ -158,9 +158,9 @@ Should you have questions about pre-requisites, please email the instructor.***
 | Thurs Nov 7    |    Backpropagation  | [[backpropagation_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/backpropagation.pdf)] |      |
 | Tues Nov 12    |  Seq2Seq; Neural Machine Translation  | [[attention_MT_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/attention.pdf)];  [[Bahdanau_et_al_2016](https://arxiv.org/pdf/1409.0473.pdf)] |            |
 | Thurs Nov 14    |  Transformer I  | [[transformer_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/transformer.pdf)]; [[Vaswani_et_al_2017](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)]; [[Devlin_et_al_2019](https://www.aclweb.org/anthology/N19-1423.pdf)]  |         |
-| Tues Nov 19    |   Transformer II |  same as last week    |          |
-| Thurs Nov 21    |    BERT & ConvNets    |  [[cnn_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/CNNs.pdf)]      | |
-| Tues Nov 26    |    Auto-Encoders, GANS, Multi-Task Learning, and Word Mapping  |   [[methods_overview_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/multiple_methods.pdf)]     |        |
+| Tues Nov 19    |   Transformer II & BERT |  same as last week    |          |
+| Thurs Nov 21    |    ConvNets    |  [[cnn_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/CNNs.pdf)]; [[DLB CH09](https://www.deeplearningbook.org/contents/convnets.html)]      | |
+| Tues Nov 26    |    Auto-Encoders, GANS, Multi-Task Learning, and Word Mapping  |   [[methods_overview_slides](https://github.com/UBC-NLP/dlnlp2019/tree/master/slides/multiple_methods.pdf)]; [[DLB CH20.10.3](https://www.deeplearningbook.org/contents/generative_models.html)]; [[Semi-supervised sequence learning](www.cs.ubc.ca/~amuham01/LING530/papers/dai2015semi.pdf)]; [[DiaNet](https://arxiv.org/pdf/1910.14243.pdf)]; [[Word Translation Without Parallel Data](https://arxiv.org/pdf/1710.04087.pdf)]     |        |
 | Thurs Nov 28    |    Projects  |        |        |
 | Tues Dec 3    |    | --  |   Final project due  (hw03_b)       |
 
